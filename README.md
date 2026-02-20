@@ -22,7 +22,7 @@ La página web desarrollada consiste en un diseño moderno y minimalista enfocad
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [\[Pega aquí tu enlace\] ](https://github.com/EnriqueNavarro-45/Ejercicio-2-Simple-Article-Listing) 
-Deploy:[ [LINK](http://yomidev.github.io/newsletter/)](https://enriquenavarro-45.github.io/Ejercicio-2-Simple-Article-)
+Deploy: https://enriquenavarro-45.github.io/Ejercicio-2-Simple-Article-Listing/
 ---
 
 ## 📝 Reflexión
